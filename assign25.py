@@ -1,0 +1,5 @@
+string = str(input("sample data: "))
+list = string.split()
+tuple = tuple(list)
+print(list)
+print(tuple)
