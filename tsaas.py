@@ -1,4 +1,4 @@
-n=int(input("input n: "))
+ n=int(input("input n: "))
 ids=[]
 names=[]
 tels=[]
